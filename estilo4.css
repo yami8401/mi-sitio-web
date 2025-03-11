@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdeaf2; /* Fondo rosa pastel muy claro */
+    text-align: center;
+}
+
+header h1 {
+    background-color: #eb9ac0; /* Rosa pastel para el encabezado */
+    color: white;
+    padding: 15px;
+}
+
+.multimedia table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+ 
+multimedia th {
+    background-color: #f3aacb; /* Rosa pastel para encabezados de tabla */
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.multimedia td {
+    border: 1px solid #f3aacb; /* Borde rosa pastel para celdas */
+    padding: 10px;
+}

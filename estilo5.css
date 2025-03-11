@@ -1,0 +1,35 @@
+body {
+    background-color: #FFD1DC; /* Rosado pastel */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #A64D79; /* Un tono más oscuro para resaltar */
+}
+
+section {
+    margin: auto;
+    padding: 20px;
+    width: 80%;
+    background-color: white;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 315px;
+    border: none;
+}
+
+a {
+    color: #A64D79;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

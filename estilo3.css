@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdeaf2; /* Rosa pastel */
+    text-align: center; /* Centra todo el texto */
+}
+
+header h1 {
+    background-color: #eb9ac0;
+    color: white;
+    padding: 15px;
+    text-align: center; /* Centra el título */
+}
+
+section {
+    width: 80%;
+    margin: auto; /* Centra el contenido horizontalmente */
+    text-align: center;
+}
+
+
+
+img {
+    display: block;
+    margin: auto; /* Centra las imágenes */
+    max-width: 100%; /* Evita que se salga del contenedor */
+    height: auto;
+}
+.logo {
+    width: 100px; /* Ajusta el tamaño del logo */
+    height: auto;
+}
+
+.izquierda {
+    float: left;
+}
+
+.derecha {
+    float: right;
+}
